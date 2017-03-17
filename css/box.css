@@ -1,0 +1,11 @@
+.navbar-default{
+	width: 100%;
+}
+.content{
+	height: 200px;
+	border-radius: 5px;
+
+}
+.content:nth-child(odd){
+	background-color: mediumseagreen;
+}
