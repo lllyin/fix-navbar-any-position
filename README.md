@@ -2,11 +2,11 @@
 
 ## 目录结构
 
-### css
+### 1.css
 	css文件目录
-### img
+### 2.img
 	图片文件目录
-### js
+### 3.js
 	javascript文件目录
-### test.html
+### 4.test.html
 	示例网页
